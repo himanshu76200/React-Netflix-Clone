@@ -2,6 +2,9 @@
 ## DEPLOYMENT: https://netflix-clone-76200.web.app/
 ![Screenshot 2021-04-07 234518](https://user-images.githubusercontent.com/62508572/113914667-6b6fb300-97fb-11eb-8850-24c529c8df5e.jpg)
 
+![image](https://user-images.githubusercontent.com/62508572/113966241-58d19a00-984c-11eb-976a-a7dc602193b8.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
